@@ -63,3 +63,4 @@ Your readme will have various images and gifs on it. Upload a test image and tes
 
 
 ### Test GIF
+![Dog](https://github.com/abryant80/Engineering-4-Notebook/blob/main/images/200w.gif)  
