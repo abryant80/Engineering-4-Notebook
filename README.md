@@ -12,22 +12,27 @@
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
-
+This assignment I have to code it to make it count down from 10 to 0.I know that the count down will show up in the terminal.The assignment should be simple to do.
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
+https://github.com/abryant80/Engineering-4-Notebook/blob/main/images/t-28okF7HWDie4esYCBWWiyZ8tzsP2JG13.mp4
 
 ### Wiring
 
-This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
+This assignent does't have wiring  
 
 ### Code
-Give me a link to your code. [Something like this](https://github.com/millerm22/Engineering_4_Notebook/blob/main/Raspberry_Pi/hello_world.py). Don't make me hunt through your folders, give me a nice link to click to take me there! Remember to **COMMENT YOUR CODE** if you want full credit. 
+ import time
+import board 
+
+for counter in range (10,0,-1): # counts from 10 to 0
+    print(counter) # this shows it countng down in the terminal
+
+
 
 ### Reflection
-
-What went wrong / was challenging, how'd you figure it out, and what did you learn from that experience? Your goal for the reflection is to pass on knowledge that will make this assignment better or easier for the next person. Think about your audience for this one, which may be "future you" (when you realize you need some of this code in three months), me, or your college admission committee!
+Something that was challeging for me at first was what to put for the code because I don't have the basic understanding of python coding.I learned a better 
+understanding on the code and how it works.This will help me remember what I did and how to do it in the future if I have to do it a couple months from now.
 
 &nbsp;
 
