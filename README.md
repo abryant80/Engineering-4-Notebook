@@ -39,7 +39,7 @@ understanding on the code and how it works.This will help me remember what I did
 
 ### Assignment Description
 
-Write your assignment description here. What is the purpose of this assignment? It should be at least a few sentences.
+in this assignment I have to make the led blink and make it go down on in the terminal.It starts at 10 and blinks all the way to 0.The assignment should be easy.
 
 ### Evidence 
 
