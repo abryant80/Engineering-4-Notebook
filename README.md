@@ -19,7 +19,7 @@ https://github.com/abryant80/Engineering-4-Notebook/blob/main/images/t-28okF7HWD
 
 ### Wiring
 
-This assignent does't have wiring  
+This assignment does't have wiring  
 
 ### Code
  import time
