@@ -43,8 +43,7 @@ in this assignment I have to make the led blink and make it go down on in the te
 
 ### Evidence 
 
-Pictures / Gifs of your work should go here. You need to communicate what your thing does. 
-
+https://github.com/abryant80/Engineering-4-Notebook/blob/main/images/Launch2.png
 ### Wiring
 
 This may not be applicable to all assignments. Anything where you wire something up, include the wiring diagram here. The diagram should be clear enough that I can recreate the wiring from scratch. 
