@@ -42,7 +42,7 @@ understanding on the code and how it works.This will help me remember what I did
 in this assignment I have to make the led blink and make it go down on in the terminal.It starts at 10 and blinks all the way to 0.The assignment should be easy.
 
 ### Evidence 
-
+https://github.com/abryant80/Engineering-4-Notebook/blob/main/images/t-2qRPQHzY5RjoNJ9pLUoirLJzkbJigT9g%20(1).mp4
 
 ### Wiring
 
