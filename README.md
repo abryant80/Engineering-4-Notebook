@@ -52,7 +52,7 @@ Give me a link to your code. [Something like this](https://github.com/millerm22/
 
 ### Reflection
 In this assignment I learned the hard way on don't plug it in to power without a reseistor because it burns the led.I got a better understanding on led's and the code 
-that 
+that works them.I learned more about Rasberry pi and how they work and a better understanding on the pins.
 
 
 ## Raspberry_Pi_Assignment_Template
