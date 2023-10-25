@@ -151,8 +151,7 @@ In this assignment we have to build a beam that can hold the most weight possibl
 
 
 ### Part Image
-
-Take a nice screenshot of your Onshape document. 
+https://github.com/abryant80/Engineering-4-Notebook/blob/main/images/Beam.png
 
 ### Reflection
 
@@ -162,18 +161,14 @@ In this assignment I messed up alot.I would make the thickness to wide on the su
 
 ### Assignment Description
 
-In this assignment we are testing are beams.This is going to be a stress test on are beams through onshape.This is going to hep me and my partner improve are beams.
+In this assignment we are testing are beams.This is going to be a stress test on are beams through onshape.This is going to hep me and my partner improve are beams.We are working with a partner in this assignment.
 ### Part Link 
 
-[Create a link to your Onshape document](https://cvilleschools.onshape.com/documents/003e413cee57f7ccccaa15c2/w/ea71050bb283bf3bf088c96c/e/c85ae532263d3b551e1795d0?renderMode=0&uiState=62d9b9d7883c4f335ec42021). Don't forget to turn on link sharing in your Onshape document so that others can see it. 
-
 ### Part Image
-
-Take a nice screenshot of your Onshape document. 
+https://github.com/abryant80/Engineering-4-Notebook/blob/main/images/Beam.png
 
 ### Reflection
-In the beam that I made all the pressure was on the top of it not spread out at all.It was a bad design that we didn't use for the test.Because of the test we figure the other one we alot woud be way better.
-
+The stress points in the image suprisingly concentrate on the thicker and more supported parts of the which is a good reflection on the design as that is the goal but it also means that these areas are under the most pressure. The displacement is also good and under 30N if stress it only has 8 mm of displacement an average of 30n .This is one of the best performances we have seen.
 &nbsp;
 
 
