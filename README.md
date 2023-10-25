@@ -148,7 +148,7 @@ What went wrong / was challenging, how'd you figure it out, and what did you lea
 
 In this assignment we have to build a beam that can hold the most weight possible.We can't use angles over 45 deg because it is getting 3d printed.This assignment is going to be fun.
 ### Part Link 
-
+ [Beam]()https://cvilleschools.onshape.com/documents/5b3c6a196d6815e777a58149/w/7ff58ffdc9b7d822c5c380d6/e/6f5872370a94f9d60e8f28df.py)
 
 ### Part Image
 https://github.com/abryant80/Engineering-4-Notebook/blob/main/images/Beam.png
