@@ -163,9 +163,9 @@ In this assignment I messed up alot.I would make the thickness to wide on the su
 
 In this assignment we are testing are beams.This is going to be a stress test on are beams through onshape.This is going to hep me and my partner improve are beams.We are working with a partner in this assignment.
 ### Part Link 
-
+ [Beam]()https://cvilleschools.onshape.com/documents/5b3c6a196d6815e777a58149/w/7ff58ffdc9b7d822c5c380d6/e/6f5872370a94f9d60e8f28df.py)
 ### Part Image
-https://github.com/abryant80/Engineering-4-Notebook/blob/main/images/Beam.png
+https://github.com/abryant80/Engineering-4-Notebook/blob/main/images/Beam.png.py
 
 ### Reflection
 The stress points in the image suprisingly concentrate on the thicker and more supported parts of the which is a good reflection on the design as that is the goal but it also means that these areas are under the most pressure. The displacement is also good and under 30N if stress it only has 8 mm of displacement an average of 30n .This is one of the best performances we have seen.
